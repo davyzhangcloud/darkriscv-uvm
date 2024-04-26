@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018, Marcelo Samsoniuk
+ * Copyright (c) 2018, 2024, Davy Zhang
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without
